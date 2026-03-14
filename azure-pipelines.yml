@@ -9,7 +9,7 @@ pool:
 
 variables:
   repoUrl: 'https://github.com/JeromeChenEQ/e08g01t01-odoo17.git'
-  updateScript: '/home/e08g01t01/deploy-temp/update_code.sh'
+  updateScript: '/home/is214/deploy-temp/update_code.sh'
   stagePath: '/home/is214/'
 
 stages:
